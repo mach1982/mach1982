@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mach1982
-- 👀 I’m interested in Web Development and Cybersecurity
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning  Try Hack Me SOC1
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
